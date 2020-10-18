@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Web Crawler/task/build/
+/Web Crawler/task/out/
+/Web Crawler/task/out/production/classes/
